@@ -1,4 +1,4 @@
-package com.javatpoint.form;
+package YccStudio.SpringMVCTiles.form;
 
 public class Contact {
     private String firstname;
